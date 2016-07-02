@@ -1,1 +1,2 @@
 # solomon
+solomonはじまります。
